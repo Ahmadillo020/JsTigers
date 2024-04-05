@@ -57,6 +57,7 @@ users.forEach((item) =>{
 
     console.log("salom");
 
+        let yangi = "ishladi"
 
 })
 
